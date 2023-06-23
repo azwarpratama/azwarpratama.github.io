@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Jun 2023 11:00:08 at https://akanikah.com./preview-tema/tosca +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://akanikah.com./preview-tema/tosca -O1 "C:\Wedding 4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:00:50	Error: 	"Not Found" (404) at link https://akanikah.com./preview-tema/img/batascover.png (from https://akanikah.com./preview-tema/tosca)
+11:00:50	Error: 	"Not Found" (404) at link https://akanikah.com./preview-tema/img/copyright 1.png (from https://akanikah.com./preview-tema/tosca)
+11:00:50	Warning: 	Retry after error 500 (Internal Server Error) at link https://akanikah.com./preview-tema/script.js (from https://akanikah.com./preview-tema/tosca)
+11:01:08	Warning: 	Retry after error 500 (Internal Server Error) at link https://akanikah.com./preview-tema/script.js (from https://akanikah.com./preview-tema/tosca)
+11:01:09	Error: 	"Internal Server Error" (500) after 2 retries at link https://akanikah.com./preview-tema/script.js (from https://akanikah.com./preview-tema/tosca)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 1 seconds : 37 links scanned, 30 files written (12005958 bytes overall) [13323433 bytes received at 218416 bytes/sec], 664051 bytes transferred using HTTP compression in 10 files, ratio 20%, 1.9 requests per connection
+(3 errors, 2 warnings, 0 messages)
